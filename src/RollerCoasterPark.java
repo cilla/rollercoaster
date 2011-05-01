@@ -7,11 +7,11 @@ public class RollerCoasterPark {
 	
 	public void init() {
 //		this.name = "Liseberg";
-//		this.rollerCoasters = new ArrayList<String>();
-//		rollerCoasters.add("Hangover")
-//		rollerCoasters.add("Flumride")
-//		rollerCoasters.add("Colorado")
-//		rollerCoasters.add("Rabalder")
+//		this.rcList = new ArrayList<String>();
+//		rcList.add("Hangover")
+//		rcList.add("Flumride")
+//		rcList.add("Colorado")
+//		rcList.add("Rabalder")
 	}
 	
 	public String getName() {
